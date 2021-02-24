@@ -12,7 +12,7 @@ class JangKengGame extends React.Component {
       },
       i18n: null
     }
-    this.URI = 'http://localhost:8080/i18n.json'
+    this.URI = 'https://n20018.github.io/i18n.json'
     this.LANG = 'ja'
   }
 
